@@ -1,0 +1,48 @@
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\UygClassDLL\MatrisApplication\bin\Debug\MatrisApplication.exe.config
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\UygClassDLL\MatrisApplication\bin\Debug\MatrisApplication.exe
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\UygClassDLL\MatrisApplication\bin\Debug\MatrisApplication.pdb
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.csprojResolveAssemblyReference.cache
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.Form1.resources
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.Properties.Resources.resources
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.csproj.GenerateResource.Cache
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.exe
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.pdb
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\ztest\UygClassDLL\MatrisApplication\bin\Debug\MatrisApplication.exe.config
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\ztest\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.exe
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\ztest\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.pdb
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\ztest\UygClassDLL\MatrisApplication\bin\Debug\MatrisApplication.exe
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\ztest\UygClassDLL\MatrisApplication\bin\Debug\MatrisApplication.pdb
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\ztest\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.csprojResolveAssemblyReference.cache
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\ztest\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.Form1.resources
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\ztest\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.Properties.Resources.resources
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\ztest\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.csproj.GenerateResource.Cache
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\yapim asamasinda\UygClassDLL\MatrisApplication\bin\Debug\MatrisApplication.exe.config
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\yapim asamasinda\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.exe
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\yapim asamasinda\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.pdb
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\yapim asamasinda\UygClassDLL\MatrisApplication\bin\Debug\MatrisApplication.exe
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\yapim asamasinda\UygClassDLL\MatrisApplication\bin\Debug\MatrisApplication.pdb
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\yapim asamasinda\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.csprojResolveAssemblyReference.cache
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\yapim asamasinda\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.Form1.resources
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\yapim asamasinda\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.Properties.Resources.resources
+C:\Users\cakir\Documents\Visual Studio 2015\Projects\yapim asamasinda\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.csproj.GenerateResource.Cache
+D:\MasaDos\New folder\yapim asamasinda\UygClassDLL\MatrisApplication\bin\Debug\MatrisApplication.exe.config
+D:\MasaDos\New folder\yapim asamasinda\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.exe
+D:\MasaDos\New folder\yapim asamasinda\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.pdb
+D:\MasaDos\New folder\yapim asamasinda\UygClassDLL\MatrisApplication\bin\Debug\MatrisApplication.exe
+D:\MasaDos\New folder\yapim asamasinda\UygClassDLL\MatrisApplication\bin\Debug\MatrisApplication.pdb
+D:\MasaDos\New folder\yapim asamasinda\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.csprojResolveAssemblyReference.cache
+D:\MasaDos\New folder\yapim asamasinda\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.Form1.resources
+D:\MasaDos\New folder\yapim asamasinda\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.Properties.Resources.resources
+D:\MasaDos\New folder\yapim asamasinda\UygClassDLL\MatrisApplication\obj\Debug\MatrisApplication.csproj.GenerateResource.Cache
+D:\MasaDos\New folder\yapim asamasinda\MatrisUyg\MatrisApplication\bin\Debug\MatrisApplication.exe.config
+D:\MasaDos\New folder\yapim asamasinda\MatrisUyg\MatrisApplication\obj\Debug\MatrisApplication.exe
+D:\MasaDos\New folder\yapim asamasinda\MatrisUyg\MatrisApplication\obj\Debug\MatrisApplication.pdb
+D:\Dosyalarim\Yazilim Dosyalar\C# Projerli\zFull\c# Programlar\MatrisProgrami\MatrisApplication\bin\Debug\MatrisApplication.exe.config
+D:\Dosyalarim\Yazilim Dosyalar\C# Projerli\zFull\c# Programlar\MatrisProgrami\MatrisApplication\obj\Debug\MatrisApplication.exe
+D:\Dosyalarim\Yazilim Dosyalar\C# Projerli\zFull\c# Programlar\MatrisProgrami\MatrisApplication\obj\Debug\MatrisApplication.pdb
+D:\Dosyalarim\Yazilim Dosyalar\C# Projerli\zFull\c# Programlar\MatrisProgrami\MatrisApplication\bin\Debug\MatrisApplication.exe
+D:\Dosyalarim\Yazilim Dosyalar\C# Projerli\zFull\c# Programlar\MatrisProgrami\MatrisApplication\bin\Debug\MatrisApplication.pdb
+D:\Dosyalarim\Yazilim Dosyalar\C# Projerli\zFull\c# Programlar\MatrisProgrami\MatrisApplication\obj\Debug\MatrisApplication.csprojResolveAssemblyReference.cache
+D:\Dosyalarim\Yazilim Dosyalar\C# Projerli\zFull\c# Programlar\MatrisProgrami\MatrisApplication\obj\Debug\MatrisApplication.Form1.resources
+D:\Dosyalarim\Yazilim Dosyalar\C# Projerli\zFull\c# Programlar\MatrisProgrami\MatrisApplication\obj\Debug\MatrisApplication.Properties.Resources.resources
+D:\Dosyalarim\Yazilim Dosyalar\C# Projerli\zFull\c# Programlar\MatrisProgrami\MatrisApplication\obj\Debug\MatrisApplication.csproj.GenerateResource.Cache
